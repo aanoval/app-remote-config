@@ -1,8 +1,8 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-10-12",
   "ads": {
-    "rewardedEnabled": true,
+    "rewardedEnabled": false,
     "interstitialEnabled": true,
     "bannerEnabled": true,
     "interstitialAfterMatches": 3,
