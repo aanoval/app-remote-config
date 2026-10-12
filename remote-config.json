@@ -1,15 +1,15 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-10-12",
   "ads": {
-    "rewardedEnabled": false,
+    "rewardedEnabled": true,
     "interstitialEnabled": true,
     "bannerEnabled": true,
     "interstitialAfterMatches": 3,
     "interstitialEveryMatches": 3,
     "interstitialMinIntervalSeconds": 120,
     "interstitialSkipFirstMatchOfDay": true,
-    "shopAdDailyCap": 1,
+    "shopAdDailyCap": 5,
     "android": {
       "banner": "",
       "interstitial": "",
